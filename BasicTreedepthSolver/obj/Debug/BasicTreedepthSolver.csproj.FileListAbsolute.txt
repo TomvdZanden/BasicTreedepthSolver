@@ -1,0 +1,7 @@
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\bin\Debug\BasicTreedepthSolver.exe.config
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\bin\Debug\BasicTreedepthSolver.exe
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\bin\Debug\BasicTreedepthSolver.pdb
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\obj\Debug\BasicTreedepthSolver.csprojResolveAssemblyReference.cache
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\obj\Debug\BasicTreedepthSolver.csproj.CoreCompileInputs.cache
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\obj\Debug\BasicTreedepthSolver.exe
+F:\Users\Tom\Documents\GitHub\BasicTreedepthSolver\BasicTreedepthSolver\obj\Debug\BasicTreedepthSolver.pdb
